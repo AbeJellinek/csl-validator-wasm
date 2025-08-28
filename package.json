@@ -1,0 +1,19 @@
+{
+  "name": "csl-validator-wasm",
+  "version": "1.0.0",
+  "description": "A validator for [Citation Style Language](https://citationstyles.org/) styles. This is built on a WebAssembly compilation of [rnv](https://sourceforge.net/projects/rnv/).",
+  "main": "csl-validator.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbeJellinek/csl-validator-wasm.git"
+  },
+  "author": "Abe Jellinek",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AbeJellinek/csl-validator-wasm/issues"
+  },
+  "homepage": "https://github.com/AbeJellinek/csl-validator-wasm#readme"
+}
